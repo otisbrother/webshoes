@@ -94,6 +94,10 @@ body {
     margin: 0 13px;
 } 
 
+.nav__menu ul li a:hover {
+  color: orangered;
+}
+
 .nav__menu ul li a {
     font-size: 1.6rem;
     color: #fff;
